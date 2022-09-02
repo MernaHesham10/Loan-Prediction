@@ -8,8 +8,13 @@
 
 ## The project implementation steps will go as follows
 ● Understand the dataset attributes
+
 ● Apply the required data preprocessing methods
+
 ● Implement different classification models to investigate the performance of each classifier on detecting the loan status for each customer
+
 ● Mention your observations and study the parameters (features) that play a vital role in accepting loan.
+
 ● After get the best classifier. Use “New Customer “ data to predict the loan for each new customer
+
 ● From the new customer data , what is the percentage of married people in semiurban area that obtained the loan ?
